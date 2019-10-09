@@ -1,4 +1,4 @@
-# Git & GitHub 환경 설정하기 - Git 설치
+## Git & GitHub 환경 설정하기 - Git 설치
 
 Git, Git Bash 설치 (CLI 환경 구축)
 
@@ -13,7 +13,7 @@ Git & GitHub 환경 설정하기 - GitHub, VSCode 설치
 VisualStudioCode 설치 - 코드 에디터
 https://code.visualstudio.com/
 
-# github 가입하기
+## github 가입하기
 git으로 버전 관리한 코드를 올릴 수 있는 클라우드 서버
 github - 사용자수가 가장많음
 gitlab - 공개, 비공개 저장소 생성이 무료임
